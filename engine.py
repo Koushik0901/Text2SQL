@@ -60,4 +60,4 @@ def inference(ckpt_path: str, src_sentence: str) -> str:
 
 
 if __name__ == "__main__":
-    print(inference("saved_model/txt2sql.pt", "What is Record, when Date is March 1?"))
+    print(inference("./txt2sql.pt", "What is Record, when Date is March 1?"))
