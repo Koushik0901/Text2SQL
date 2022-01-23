@@ -2,7 +2,7 @@
 ***A Transformer model trained on WikiSQL dataset that accepts natural language as input and returns SQL Query as output.***
 
 ## **Demo**
-### Try it yourself [here](...)
+### Try it yourself [here](https://share.streamlit.io/koushik0901/text2sql/ui.py)
 <p align="center"> <img src="./utils/examples.png" width="1200" height="300"  /> </p>
 
 ## **Project Organization**
