@@ -17,7 +17,7 @@ def ui():
         value="What is Record, when Date is November 9?",
         max_chars=80,
     )
-    output = inference("saved_model/txt2sql.pt", input_text)
+    output = inference("./txt2sql.pt", input_text)
     print(output)
     st.markdown(f"##### **PREDICTION:** ***{output}***")
     st.markdown("## [Code on GitHub](https://github.com/Koushik0901/Text2SQL)")
