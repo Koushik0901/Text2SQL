@@ -5,7 +5,7 @@ from src.model import Txt2SqlTransformer
 from src import config
 
 
-url = ""
+url = "https://github.com/Koushik0901/Text2SQL/releases/download/pretrained-model/txt2sql.pt"
 filename = wget.download(url)
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
