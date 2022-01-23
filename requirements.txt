@@ -1,0 +1,8 @@
+torch
+pytorch_lightning
+transformers
+datasets
+sentencepiece
+streamlit
+pandas
+wget

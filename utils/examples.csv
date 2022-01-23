@@ -1,0 +1,6 @@
+input,prediction
+what is the average number of events when the top-5 is less than 1 and top 25 more than 1,SELECT AVG Events FROM table WHERE Top-5 < 1 AND Top-25 > 1
+who is the manufacturer for the order year 1998?,SELECT Manufacturer FROM table WHERE Order Year = 1998
+"What is Record, when Date is March 1?",SELECT Record FROM table WHERE Date = march 1
+"who is the manufacturer for the order year 1998?",SELECT Manufacturer FROM table WHERE Order Year = 1998
+what's the years played with singles w-l of 3-2,SELECT Years Played FROM table WHERE Singles W-L = 3-2
