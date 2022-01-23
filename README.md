@@ -3,7 +3,7 @@
 
 ## **Demo**
 ### Try it yourself [here](https://share.streamlit.io/koushik0901/text2sql/ui.py)
-<p align="center"> <img src="./utils/examples.png" width="1200" height="300"  /> </p>
+<p align="center"> <img src="./utils/examples.png" width="1000" height="200"  /> </p>
 
 ## **Project Organization**
 ------------
